@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('link[href="/css/custom.css"]').attr('href','/css/bootstrap.css');
+  //$('link[href="/css/custom.css"]').attr('href','/css/bootstrap.css');
   // layout
   $('#doc3').addClass('container-fluid');
   $('#yui-main').addClass('row-fluid');
